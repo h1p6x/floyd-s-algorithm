@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1622002716 source:g:\Проекты кодблокс\алгоритм флойда\main.cpp
-	<iostream>
-	<algorithm>
-	<fstream>
-	<vector>
-	<locale.h>
-
